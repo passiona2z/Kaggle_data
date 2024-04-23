@@ -6,8 +6,8 @@ Bank Loan modelling : Personal Loan classification problem
 - 은행의 대출 잠재고객을 파악하는 분류모델을 개발
 
 [데이터]
-Bank_Personal_Loan_Modelling
-(https://www.kaggle.com/datasets/krantiswalke/bank-personal-loan-modelling)
+- Bank_Personal_Loan_Modelling
+- https://www.kaggle.com/datasets/krantiswalke/bank-personal-loan-modelling
 
 ![](./image1.png)
 
